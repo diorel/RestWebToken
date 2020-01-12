@@ -1,0 +1,6 @@
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\bin\Debug\LoginApiToken.Entitys.dll
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\bin\Debug\LoginApiToken.Entitys.pdb
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\obj\Debug\LoginApiToken.Entitys.csprojAssemblyReference.cache
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\obj\Debug\LoginApiToken.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\obj\Debug\LoginApiToken.Entitys.dll
+C:\Users\diore\OneDrive\Documentos\GuitNuevos\RestWebToken\LoginApiToken\LoginApiToken.Entitys\obj\Debug\LoginApiToken.Entitys.pdb
